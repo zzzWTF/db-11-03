@@ -146,6 +146,4 @@
   ```
 </details>
 
-#### Видео.
-
-[deb-screen-25-01-2023.webm](https://user-images.githubusercontent.com/29059411/214580257-bfa2f176-ee72-4d1f-b263-8f495fca40dd.webm)
+#### Видео.[deb-screen-25-01-2023.webm](https://user-images.githubusercontent.com/29059411/214581324-88df73f9-39b4-4a25-9cf6-8e45eca0b667.webm)
